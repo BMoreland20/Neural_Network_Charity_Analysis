@@ -25,8 +25,10 @@ All work was conducted on a CSV containing more that 34,000 organizations that h
 
      - The small amount of accuracy increase was done by changing the number of neurons in each layer and also adding and removing layers, while also removing additional columns and trying different configurations.  My final attempt was the best attempt that I had recieved.  Below are the images of the unoptimized and optimized models.
 
+## Unoptimized
 ![This is an image](https://github.com/BMoreland20/Neural_Network_Charity_Analysis/blob/main/Resources/unoptimized_model.2.png)
 
+## Optimized
 ![This is an image](https://github.com/BMoreland20/Neural_Network_Charity_Analysis/blob/main/Resources/optimized_model.2.png)
 
 ## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
