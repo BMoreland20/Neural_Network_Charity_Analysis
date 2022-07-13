@@ -31,4 +31,9 @@ All work was conducted on a CSV containing more that 34,000 organizations that h
 ## Optimized
 ![This is an image](https://github.com/BMoreland20/Neural_Network_Charity_Analysis/blob/main/Resources/optimized_model.2.png)
 
-## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+## Summary:
+
+   - Overall the optimized model was faster and more accurate than our unoptimized model at predicting if applicants funded by Alphabet Soup.
+   - Another possible model to use would be the random forest model.  This model achieved a 71% accuracy score which is comparable to our neural network model.  Another point to be made is that the random forest model took only a few seconds while the deep learning model took a couple of minutes to complete.
+
+![This is an image](https://github.com/BMoreland20/Neural_Network_Charity_Analysis/blob/main/Resources/random_forrest_model.png)
